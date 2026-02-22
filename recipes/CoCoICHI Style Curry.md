@@ -6,21 +6,21 @@
 
 ### Ingredients
 
-Butter = +/- 45g
-Ginger = 2 tiny slices of a root
-Flour = 3 Table spoons
-Potatoes = 3
-Carrots = 2
-Apple juice = 1dl
-Garlic Clove = 1
-Onions = 1 
-Peanut- or Rapeseed-Oil (10/10 naming btw)
-Soy Sauce = 5 Table spoons
-Chicken Broth = 1dl
-Curry (Spice)
-Garam Masala Mix (Spice)
+- Butter = +/- 45g
+- Ginger = 2 tiny slices of a root
+- Flour = 3 Table spoons
+- Potatoes = 3
+- Carrots = 2
+- Apple juice = 1dl
+- Garlic Clove = 1
+- Onions = 1 
+- Peanut- or Rapeseed-Oil (10/10 naming btw)
+- Soy Sauce = 5 Table spoons
+- Chicken Broth = 1dl
+- Curry (Spice)
+- Garam Masala Mix (Spice)
 
-#### Note
+**Note:**
 
 You could use **Corn flour** instead of the Potatoes and Carrots if you want to be faster (not tested, but i am sure it will work).
 
