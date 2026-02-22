@@ -5,7 +5,7 @@
 A personal (but growing) collection of cooking recipes, where flavors get committed, rebased, and merged without conflicts. Started as my own stash, now open for your battle-tested dishes too.
 
 ## Why this repo exists
-Because good code deserves good food, and bad code sometimes just needs a commit to the stomach.
+Because a bright mind deserves some good food and a stressed mind sometimes just needs a commit to the stomach.
 
 - Real recipes I (and hopefully you) actually cook
 - Markdown format: easy to read, print, fork, or PR
