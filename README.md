@@ -12,4 +12,4 @@ Because good code deserves good food, and bad code sometimes just needs a commit
 - Dev-friendly structure: ingredients = deps, steps = build script
 - No merge conflicts in the kitchen... usually, maybe, im really not sure about this one.
 
-# Happy forking and forking. 🍴
+**Happy forking and forking** 🍴
